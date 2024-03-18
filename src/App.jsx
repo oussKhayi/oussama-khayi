@@ -1,15 +1,15 @@
 import React from "react";
-import "./App.css";
-import { SideNav } from "./components/SideNav";
-import { Content } from "./components/Content";
+import { LeftSide } from "./components/LeftSide";
+import RightSide from "./components/RightSide";
+import { Nav } from "./components/Nav";
 
-const App = () => {
+export const App2 = () => {
   return (
-    <div className="bg-legend h-screen pt-14 px-16 md:px-2 grid grid-cols-1 md:grid-cols-1 gap-y-4 lg:grid-cols-2">
-      <SideNav />
-      <Content />
-    </div>
+    <>
+      <div className="bg-primary h-auto lg:h-screen p-3 md:p-8 md:px-20 grid grid-rows-1 md:grid-cols-1 lg:grid-cols-2 md:overflow-hidden">
+        <LeftSide />
+        <RightSide />
+      </div>
+    </>
   );
 };
-
-export default App;

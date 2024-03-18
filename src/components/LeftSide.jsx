@@ -13,8 +13,8 @@ import {
 export const LeftSide = () => {
   return (
     <div className="w-full h-fit min-h-full pt-8 lg:p-16 px-2">
-      <h1 className="text-[#c4d0ec] capitalize text-4xl md:text-5xl font-bold">
-        khayi oussama
+      <h1 className="text-[#c4d0ec] text-4xl md:text-5xl font-bold">
+        KHAYI Oussama
       </h1>
       <h4 className="text-xl my-3 font-semibold capitalize text-gray-300">
         Junior Full stack Engineer
