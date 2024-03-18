@@ -1,0 +1,42 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+  transition: 200ms;
+  scroll-behavior: smooth;
+  cursor: url("./images/normal.cur"), auto;
+}
+*::selection {
+  color: #192e67;
+  background-color: #54d2d4;
+}
+body {
+  position: relative;
+}
+
+.links-bg {
+  background-color: #111f44;
+  top: -60px;
+  z-index: 1;
+}
+
+.light {
+  filter: drop-shadow(-0.3rem 0rem 4rem #54d2d4);
+}
+.lightHover:hover {
+  filter: drop-shadow(-0.3rem 0rem 3rem #54d2d4);
+}
+.cursor {
+  pointer-events: none; /* So the cursor doesn't interfere with other elements */
+  z-index: 9999; /* Ensure it's on top of other elements */
+  box-shadow: 0rem 0rem 15rem #3ea5a6;
+}
+
+.project-image {
+  filter: drop-shadow(0rem 0rem 2rem #54d2d49e);
+}
+
+.hidden-buttons{
+  display: grid;
+  opacity: 0;
+  transition: .4s ease-in-out;
+}
