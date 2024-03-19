@@ -1,10 +1,15 @@
 import React from "react";
 import data from "../data.json";
-import { BsGithub, BsEye } from "react-icons/bs";
+import { BsGithub, BsEye, BsChevronDoubleDown } from "react-icons/bs";
+import {  } from "react-icons/bs";
+
 import { ContactForm } from "./ContactForm";
 const RightSide = () => {
   return (
-    <div className="w-full no-scroll-bar lg:pt-8 px-2 overflow-y-scroll no-scrollbar right-menu">
+    <div
+      className="right-div w-full no-scroll-bar lg:pt-8 px-2 overflow-y-scroll no-scrollbar right-menu"
+      id="rightDiv"
+    >
       <div
         className="text-[#afafaf] px-2 pt-8 lg:ps-2 lg:pe-20 lg:pt-8 text-sm md:text-md"
         id="about"
