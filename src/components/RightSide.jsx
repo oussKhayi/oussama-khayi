@@ -1,7 +1,7 @@
 import React from "react";
 import data from "../data.json";
 import { BsGithub, BsEye, BsChevronDoubleDown } from "react-icons/bs";
-import {  } from "react-icons/bs";
+import {} from "react-icons/bs";
 
 import { ContactForm } from "./ContactForm";
 const RightSide = () => {
