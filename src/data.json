@@ -60,7 +60,7 @@
   ],
   "technologies": {
     "front-end": [
-      "devicon-nextjs-plain colored",
+      "devicon-nextjs-plain text-white",
       "devicon-javascript-plain colored",
       "devicon-react-original colored",
       "devicon-redux-original colored",
