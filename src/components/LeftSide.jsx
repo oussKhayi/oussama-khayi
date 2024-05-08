@@ -27,7 +27,7 @@ export const LeftSide = () => {
         success.
       </p>
       <a
-        href="https://drive.google.com/file/d/1Prk-RBfXw5smLsBpSalFaHJwhgYZQOO_/view?usp=sharing"
+        href="https://drive.google.com/file/d/11YRuc0LygNFJyQ2M4Ia82G_46Xuw-GPg/view?usp=sharing"
         target="_blank"
         className="btn px-4 p-2 bg-secondary hover:bg-[#3eb8ba] mt-10 rounded-lg flex items-center capitalize light lightHover w-fit"
       >
