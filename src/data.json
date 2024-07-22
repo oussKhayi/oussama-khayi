@@ -1,12 +1,25 @@
 {
   "experience": [
+   {
+  "title": "Back End Developer . Feizhoucom - Casablanca",
+  "startDate": "May 2024",
+  "endDate": "Present",
+  "description": "Internship focused on Node.js and server-side programming. Gained hands-on experience in developing, deploying, and maintaining backend services. Collaborated with the development team to build scalable and efficient server-side applications.",
+  "technologies": ["Node.js", "Express.js", "MongoDB", "REST API", "Postman", "Swagger", "Git"]
+},
     {
       "title": "MERN Internship . Ark-X Talent Factory - Casablanca",
       "startDate": "jan 2024",
-      "endDate": "present",
+      "endDate": "Jun 2024",
       "description": "Engaged in an intensive MERN stack bootcamp at ARK-X Talent Factory, Casablanca. Focused on mastering MongoDB, Express.js, and Node.js for full-stack development. Learning essential skills while progressing towards becoming a proficient web developer.",
       "technologies": ["React js", "Node JS", "Express JS", "MongoDB"]
-    },
+    },{
+  "title": "Full Stack Developer . Freelance (Self employed) - Morocco",
+  "startDate": "Jul 2023",
+  "endDate": "Jan 2024",
+  "description": "Worked as a freelance full stack developer, delivering various projects to clients. Specialized in building dynamic and responsive web applications using Laravel. Developed RESTful APIs and integrated third-party services. Ensured high-quality code and adherence to best practices.",
+  "technologies": ["React.js","Laravel/PHP", "MySQL","fullCalendar.js", "REST API", "Git"]
+},
     {
       "title": "Laravel Internship . Web Services SH - Laayoune",
       "startDate": "fab 2022",
