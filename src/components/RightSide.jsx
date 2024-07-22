@@ -96,7 +96,10 @@ const RightSide = () => {
                         className="bg-slate-800 start-16 border border-white/15 w-fit p-4 rounded-xl before:shadow-gray-950 "
                         key={index}
                       >
-                        <i className={`${tech} text-3xl`}></i>
+                       <span 
+  data-text={tech.name}
+  className="tooltip"
+><i className={`${tech.icon} text-3xl`}></i>span>
                       </div>
                       // <div className="border border-blue-500/10 flex relative *:relative *:size-6 *:m-auto size-20 rounded-lg dark:bg-gray-900 dark:border-white/15 before:rounded-[7px] before:absolute before:inset-0 before:border-t before:border-white before:from-blue-100 dark:before:border-white/20 before:bg-gradient-to-b dark:before:from-white/10 dark:before:to-transparent before:shadow dark:before:shadow-gray-950">
                       // </div>
@@ -115,7 +118,10 @@ const RightSide = () => {
                         key={index}
                         className="bg-slate-800 start-16 border border-white/15 w-fit p-4 rounded-xl before:shadow-gray-950 "
                       >
-                        <i className={`${tech} text-3xl`}></i>
+                      <span 
+  data-text={tech.name}
+  className="tooltip"
+><i className={`${tech.icon} text-3xl`}></i>span>
                       </div>
                       // <div className="border border-blue-500/10 flex relative *:relative *:size-6 *:m-auto size-20 rounded-lg dark:bg-gray-900 dark:border-white/15 before:rounded-[7px] before:absolute before:inset-0 before:border-t before:border-white before:from-blue-100 dark:before:border-white/20 before:bg-gradient-to-b dark:before:from-white/10 dark:before:to-transparent before:shadow dark:before:shadow-gray-950">
                       // </div>
@@ -135,7 +141,10 @@ const RightSide = () => {
                         key={index}
                         className="bg-slate-800 start-16 border border-white/15 w-fit p-4 rounded-xl before:shadow-gray-950 "
                       >
-                        <i className={`${tech} text-3xl`}></i>
+                        <span 
+  data-text={tech.name}
+  className="tooltip"
+><i className={`${tech.icon} text-3xl`}></i>span>
                       </div>
                       // <div className="border border-blue-500/10 flex relative *:relative *:size-6 *:m-auto size-20 rounded-lg dark:bg-gray-900 dark:border-white/15 before:rounded-[7px] before:absolute before:inset-0 before:border-t before:border-white before:from-blue-100 dark:before:border-white/20 before:bg-gradient-to-b dark:before:from-white/10 dark:before:to-transparent before:shadow dark:before:shadow-gray-950">
                       // </div>
