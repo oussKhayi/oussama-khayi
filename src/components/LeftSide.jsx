@@ -20,11 +20,10 @@ export const LeftSide = () => {
         KHAYI Oussama
       </h1>
       <h4 className="text-xl my-3 font-semibold capitalize text-gray-300">
-        Junior Full stack Engineer
+        Full stack web developer
       </h4>
       <p className="text-gray-400 w-[90%] md:w-[60%] lowercase first-letter:capitalize">
-        Building frontend and backend for websites and web apps to drive project
-        success.
+    Crafting comprehensive digital experiences from concept to deployment, specializing in developing robust frontends and scalable backends for web applications.
       </p>
       <a
         href="https://drive.google.com/file/d/11YRuc0LygNFJyQ2M4Ia82G_46Xuw-GPg/view?usp=sharing"
