@@ -14,7 +14,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <div class="mouse" id=""scrollIcon></div>
+{/*       <div class="mouse" id=""scrollIcon></div> */}
       <div className="bg-primary h-auto lg:h-screen p-3 md:p-8 md:px-20 grid grid-rows-1 md:grid-cols-1 lg:grid-cols-2 md:overflow-hidden pb-12">
         <LeftSide />
         <RightSide />
