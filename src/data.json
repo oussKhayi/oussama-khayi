@@ -73,30 +73,84 @@
   ],
   "technologies": {
     "front-end": [
-      "devicon-nextjs-plain text-white",
-      "devicon-javascript-plain colored",
-      "devicon-react-original colored",
-      "devicon-redux-original colored",
-      "devicon-tailwindcss-original colored",
-      "devicon-html5-plain colored",
-      "devicon-css3-plain colored",
-      "devicon-bootstrap-plain colored"
+      {
+        "icon": "devicon-nextjs-plain text-white",
+        "name": "Next.js"
+      },
+      {
+        "icon": "devicon-javascript-plain colored",
+        "name": "JavaScript"
+      },
+      {
+        "icon": "devicon-react-original colored",
+        "name": "React"
+      },
+      {
+        "icon": "devicon-redux-original colored",
+        "name": "Redux"
+      },
+      {
+        "icon": "devicon-tailwindcss-original colored",
+        "name": "Tailwind CSS"
+      },
+      {
+        "icon": "devicon-html5-plain colored",
+        "name": "HTML5"
+      },
+      {
+        "icon": "devicon-css3-plain colored",
+        "name": "CSS3"
+      },
+      {
+        "icon": "devicon-bootstrap-plain colored",
+        "name": "Bootstrap"
+      }
     ],
     "back-end": [
-      "devicon-nodejs-plain-wordmark colored",
-      "devicon-express-original text-white",
-      "devicon-mongodb-plain colored",
-      "devicon-laravel-plain colored",
-      "devicon-mysql-plain colored"
+      {
+        "icon": "devicon-nodejs-plain-wordmark colored",
+        "name": "Node.js"
+      },
+      {
+        "icon": "devicon-express-original text-white",
+        "name": "Express"
+      },
+      {
+        "icon": "devicon-mongodb-plain colored",
+        "name": "MongoDB"
+      },
+      {
+        "icon": "devicon-laravel-plain colored",
+        "name": "Laravel"
+      },
+      {
+        "icon": "devicon-mysql-plain colored",
+        "name": "MySQL"
+      }
     ],
     "tools": [
-      "devicon-swagger-plain colored",
-      "devicon-github-original text-white",
-      "devicon-vscode-plain colored",
-      "devicon-postman-plain coloredred",
-      "devicon-git-plain colored"
+      {
+        "icon": "devicon-swagger-plain colored",
+        "name": "Swagger"
+      },
+      {
+        "icon": "devicon-github-original text-white",
+        "name": "GitHub"
+      },
+      {
+        "icon": "devicon-vscode-plain colored",
+        "name": "VS Code"
+      },
+      {
+        "icon": "devicon-postman-plain coloredred",
+        "name": "Postman"
+      },
+      {
+        "icon": "devicon-git-plain colored",
+        "name": "Git"
+      }
     ]
-  },
+  }
   "certificates": [
     {
       "title": "Certificate",
