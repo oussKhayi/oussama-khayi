@@ -26,7 +26,7 @@ export const LeftSide = () => {
     Crafting comprehensive digital experiences from concept to deployment, specializing in developing robust frontends and scalable backends for web applications.
       </p>
       <a
-        href="https://drive.google.com/file/d/11YRuc0LygNFJyQ2M4Ia82G_46Xuw-GPg/view?usp=sharing"
+        href="https://drive.google.com/file/d/1iOHuijG3GxAhC-x-mq1Cna3arUMiKwup/view"
         target="_blank"
         className="btn px-4 p-2 bg-secondary hover:bg-[#3eb8ba] mt-10 rounded-lg flex items-center capitalize light lightHover w-fit"
       >
