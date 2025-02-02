@@ -89,7 +89,7 @@ const RightSide = () => {
                   <div
                     aria-hidden="true"
                     className="inset-0 absolute border rounded-full -translate-y-1/2 group-hover:-translate-y-1/4 duration-300 bg-gradient-to-b from-white to-white blur-2xl opacity-5 group-hover:opacity-10"
-                  />
+                  >
                   {data.technologies["front-end"].map((tech, index) => {
                     return (
                       <div
@@ -99,10 +99,8 @@ const RightSide = () => {
                        <span 
   data-text={tech.name}
   className="tooltip"
-><i className={`${tech.icon} text-3xl`}></i>span>
+><i className={`${tech.icon} text-3xl`}></i></span>
                       </div>
-                      // <div className="border border-blue-500/10 flex relative *:relative *:size-6 *:m-auto size-20 rounded-lg dark:bg-gray-900 dark:border-white/15 before:rounded-[7px] before:absolute before:inset-0 before:border-t before:border-white before:from-blue-100 dark:before:border-white/20 before:bg-gradient-to-b dark:before:from-white/10 dark:before:to-transparent before:shadow dark:before:shadow-gray-950">
-                      // </div>
                     );
                   })}
                 </div>
